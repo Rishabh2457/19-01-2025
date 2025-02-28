@@ -1,0 +1,15 @@
+E:\Registration\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.deps.json
+E:\Registration\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.dll
+E:\Registration\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.pdb
+E:\Registration\RepositoryLayer\bin\Debug\net8.0\ModelLayer.dll
+E:\Registration\RepositoryLayer\bin\Debug\net8.0\ModelLayer.pdb
+E:\Registration\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.AssemblyReference.cache
+E:\Registration\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Registration\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfoInputs.cache
+E:\Registration\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfo.cs
+E:\Registration\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+E:\Registration\RepositoryLayer\obj\Debug\net8.0\Reposito.A0A61804.Up2Date
+E:\Registration\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.dll
+E:\Registration\RepositoryLayer\obj\Debug\net8.0\refint\RepositoryLayer.dll
+E:\Registration\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.pdb
+E:\Registration\RepositoryLayer\obj\Debug\net8.0\ref\RepositoryLayer.dll
