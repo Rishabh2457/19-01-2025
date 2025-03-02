@@ -1,0 +1,17 @@
+E:\UserRegistration\Business_layer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+E:\UserRegistration\Business_layer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\UserRegistration\Business_layer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\UserRegistration\Business_layer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+E:\UserRegistration\Business_layer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\UserRegistration\Business_layer\bin\Debug\net6.0\BusinessLayer.deps.json
+E:\UserRegistration\Business_layer\bin\Debug\net6.0\BusinessLayer.dll
+E:\UserRegistration\Business_layer\bin\Debug\net6.0\BusinessLayer.pdb
+E:\UserRegistration\Business_layer\bin\Debug\net6.0\ModelLayer.dll
+E:\UserRegistration\Business_layer\bin\Debug\net6.0\RepositoryLayer.dll
+E:\UserRegistration\Business_layer\bin\Debug\net6.0\RepositoryLayer.pdb
+E:\UserRegistration\Business_layer\bin\Debug\net6.0\ModelLayer.pdb
+E:\UserRegistration\Business_layer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+E:\UserRegistration\Business_layer\obj\Debug\net6.0\BusinessLayer.dll
+E:\UserRegistration\Business_layer\obj\Debug\net6.0\refint\BusinessLayer.dll
+E:\UserRegistration\Business_layer\obj\Debug\net6.0\BusinessLayer.pdb
+E:\UserRegistration\Business_layer\obj\Debug\net6.0\ref\BusinessLayer.dll

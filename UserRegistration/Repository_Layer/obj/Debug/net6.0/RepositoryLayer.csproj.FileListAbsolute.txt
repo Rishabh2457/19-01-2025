@@ -1,0 +1,17 @@
+E:\UserRegistration\Repository_Layer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+E:\UserRegistration\Repository_Layer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\UserRegistration\Repository_Layer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+E:\UserRegistration\Repository_Layer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+E:\UserRegistration\Repository_Layer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+E:\UserRegistration\Repository_Layer\bin\Debug\net6.0\RepositoryLayer.deps.json
+E:\UserRegistration\Repository_Layer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+E:\UserRegistration\Repository_Layer\bin\Debug\net6.0\RepositoryLayer.dll
+E:\UserRegistration\Repository_Layer\bin\Debug\net6.0\RepositoryLayer.pdb
+E:\UserRegistration\Repository_Layer\bin\Debug\net6.0\ModelLayer.dll
+E:\UserRegistration\Repository_Layer\bin\Debug\net6.0\ModelLayer.pdb
+E:\UserRegistration\Repository_Layer\obj\Debug\net6.0\Reposito.A0A61804.Up2Date
+E:\UserRegistration\Repository_Layer\obj\Debug\net6.0\RepositoryLayer.dll
+E:\UserRegistration\Repository_Layer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+E:\UserRegistration\Repository_Layer\obj\Debug\net6.0\RepositoryLayer.pdb
+E:\UserRegistration\Repository_Layer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+E:\UserRegistration\Repository_Layer\obj\Debug\net6.0\ref\RepositoryLayer.dll
